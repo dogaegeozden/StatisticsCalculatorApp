@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a statistics calculator where you can calculate the mean, median, mode, range, variance and standard deviation in an array.
+This is a statistics calculator where you can calculate the mean, median, mode, range, variance and standard deviation of an array.
 
 ## Features
 
